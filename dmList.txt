@@ -1,1 +1,1 @@
-["http://aaa.dq46a.xyz","http://bbb.dq46a.xyz","http://ccc.dq46a.xyz"]
+http://aaa.dq46a.xyz,http://bbb.dq46a.xyz,http://ccc.dq46a.xyz
